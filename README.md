@@ -62,7 +62,7 @@ A **basic, responsive calculator web app** built using HTML, CSS, and JavaScript
 
 To run this project locally:
 
-```bash
+bash
 git clone https://github.com/Tanishka-cs/Mathematical-calculator.git
 cd Mathematical-calculator
 open calculator.html
