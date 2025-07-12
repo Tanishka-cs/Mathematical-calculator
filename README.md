@@ -68,7 +68,6 @@ cd Mathematical-calculator
 open calculator.html
 Or just drag calculator.html into your browser.
 
-## 🔗 Connect with Me
 
 * [LinkedIn Profile](https://www.linkedin.com/in/tanishka-yadav-5b5021366)
 * [GitHub Profile](https://github.com/Tanishka-cs)
