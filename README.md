@@ -69,8 +69,8 @@ open calculator.html
 Or just drag calculator.html into your browser.
 
 
-* [LinkedIn Profile]_(https://www.linkedin.com/in/tanishka-yadav-5b5021366)_
-* [GitHub Profile]_(https://github.com/Tanishka-cs)_
+* [LinkedIn Profile](https://www.linkedin.com/in/tanishka-yadav-5b5021366)
+* [GitHub Profile](https://github.com/Tanishka-cs)
 
 
 
