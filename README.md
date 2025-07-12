@@ -6,7 +6,7 @@ A **basic, responsive calculator web app** built using HTML, CSS, and JavaScript
 
 ## 🚀 Live Demo
 
-🔗 [View Calculator Online](https://tanishka-cs.github.io/Mathematical-calculator/)
+🔗 [View Calculator Online](https://tanishka-cs.github.io/Simple-calculator/)
 
 📁 [Source Code on GitHub](https://github.com/Tanishka-cs/Mathematical-calculator)
 
